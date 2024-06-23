@@ -1,0 +1,6 @@
+<?xml version="1.0"?><config
+version="1.31"><properties><UpButtonLaunches title_id="C1AP" title_name="California Games" /><RightButtonLaunches
+title_id="GBOX" title_name="GeexBox" /><LeftButtonLaunches title_id="WTPP" title_name="Tetris Party" /><DownButtonLaunches
+title_id="WDMP" title_name="Dr.Mario" /><PictureIntroEffect selected="none" /><PictureOutroEffect
+selected="none" /><VideoFile filename="boot.wmv" />
+</properties></config>
