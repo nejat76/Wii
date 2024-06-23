@@ -1,0 +1,8 @@
+*.dol
+*.elf
+*.exe
+*.bat
+*.d
+*.map
+build/
+.svn/

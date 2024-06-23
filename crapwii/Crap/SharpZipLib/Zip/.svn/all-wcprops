@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip
+END
+ZipEntryFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/ZipEntryFactory.cs
+END
+ZipHelperStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/ZipHelperStream.cs
+END
+ZipInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/ZipInputStream.cs
+END
+ZipConstants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/ZipConstants.cs
+END
+ZipNameTransform.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/ZipNameTransform.cs
+END
+ZipOutputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/ZipOutputStream.cs
+END
+FastZip.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/FastZip.cs
+END
+ZipExtraData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/ZipExtraData.cs
+END
+ZipException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/ZipException.cs
+END
+IEntryFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/IEntryFactory.cs
+END
+ZipFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/ZipFile.cs
+END
+ZipEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/ZipEntry.cs
+END
+WindowsNameTransform.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/WindowsNameTransform.cs
+END

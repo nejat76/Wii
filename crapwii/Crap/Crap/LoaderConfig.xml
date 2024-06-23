@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<LoaderConfig>
+  <!-- Nandloader stub wad packages for use in wii game shortcuts or wiiware/vc shortcuts -->
+  <NandLoaders>
+    <NandLoader>
+      <Title>Taiko mod</Title>
+      <Filename>taiko-base.wxd</Filename>
+      <Author>LemonMan</Author>
+      <Modder>WiiCrazy</Modder>
+    </NandLoader>
+    
+    <NandLoader>
+      <Title>Waninkoko's nand loader</Title>
+      <Filename>waninkoko-base.wxd</Filename>
+      <Author>Waninkoko</Author>
+      <Modder>-</Modder>
+    </NandLoader>
+
+    <NandLoader>
+      <Title>Marcan's nand loader</Title>
+      <Filename>marcan-base.wxd</Filename>
+      <Author>Marcan</Author>
+      <Modder>-</Modder>
+    </NandLoader>
+
+    <NandLoader>
+      <Title>Comex's nand loader</Title>
+      <Filename>comex-base.wxd</Filename>
+      <Author>Comex</Author>
+      <Modder>-</Modder>
+    </NandLoader>
+
+  </NandLoaders>
+  
+  <!-- Standalone loaders for wii disc based games, doesn't require installation of a loader in your wii -->
+  <StandaloneLoaders>
+    <Loader>
+      <Title>Yet Another Loader with Fixes</Title>
+      <Filename>YalWithFixes.dol</Filename>
+      <Author>Kwiirk</Author>
+      <Modder>WiiCrazy</Modder>
+      <DiscIdPlaceHolder>LOADER</DiscIdPlaceHolder>
+      <ConfigPlaceHolder>CFGYAL</ConfigPlaceHolder>
+      <RegionOverride>1</RegionOverride>
+      <VerboseLogSupport></VerboseLogSupport>
+      <SupportFixes>1</SupportFixes>
+    </Loader>
+    
+    <Loader>
+      <Title>Usb Loader 1.6 by WiiCrazy</Title>
+      <Filename>USBL16.dol</Filename>
+      <Author>Waninkoko</Author>
+      <Modder>WiiCrazy</Modder>
+      <DiscIdPlaceHolder>CRAPPY</DiscIdPlaceHolder>
+      <CconfigPlaceHolder>CFGUSB</CconfigPlaceHolder>
+      <VerboseLogSupport>1</VerboseLogSupport>
+      <OcarinaConfiguration>1</OcarinaConfiguration>
+      <SupportsSdSdhcCard>1</SupportsSdSdhcCard>
+      <SupportFixes>1</SupportFixes>
+      <SupportsAltDols>1</SupportsAltDols>
+    </Loader>
+    
+  </StandaloneLoaders>
+
+  <!-- Forwarders that require a relevant loader in your system, for wii disc based games -->
+  <Forwarders>
+    
+    <Forwarder>
+      <Title>Configurable forwarder</Title>
+      <Filename>ConfForwarder.dol</Filename>
+      <Author>Narolez</Author>
+      <Modder>WiiCrazy</Modder>
+      <DiscIdPlaceHolder>CRAPPY</DiscIdPlaceHolder>
+      <ConfigPlaceHolder>CFGCNF</ConfigPlaceHolder>
+      <SupportsPartitionSelection>1</SupportsPartitionSelection>
+      <SupportedParameters>device=usb device=sdhc ios=249 ios=250 ios=222-mload ios=223-mload ios=224-mload ios=222-yal ios=223-yal video=system video=game video=pal50 video=pal60 video=ntsc video_patch=0 video_patch=1 video_patch=all language=console language=japanese language=english language=german language=french language=spanish language=italian language=dutch language=s.chinese language=t.chinese language=korean vidtv=0 vidtv=1 country_patch=0 country_patch=1 fix_002=0 fix_002=1 block_ios_reload=0 block_ios_reload=1 alt_dol=0 alt_dol=1 alt_dol=sd alt_dol=disc ocarina=0 ocarina=1 hooktype=nohooks hooktype=vbi hooktype=wiipad hooktype=gcpad hooktype=gxdraw hooktype=gxflush hooktype=ossleep hooktype=axframe write_playlog=0 write_playlog=1 debug=0 debug=1 debug=8 wiird=0 wiird=1 wiird=2 home=reboot home=exit home=screenshot home=hbc home=priiloader home=wii_menu</SupportedParameters>
+    </Forwarder>
+    
+    <Forwarder>
+      <Title>Configurable forwarder (no intro)</Title>
+      <Filename>ConfForwarderNoIntro.dol</Filename>
+      <Author>Narolez</Author>
+      <Modder>WiiCrazy</Modder>
+      <DiscIdPlaceHolder>CRAPPY</DiscIdPlaceHolder>
+      <ConfigPlaceHolder>CFGCNF</ConfigPlaceHolder>
+      <SupportsPartitionSelection>1</SupportsPartitionSelection>
+      <SupportedParameters>device=usb device=sdhc ios=249 ios=250 ios=222-mload ios=223-mload ios=224-mload ios=222-yal ios=223-yal video=system video=game video=pal50 video=pal60 video=ntsc video_patch=0 video_patch=1 video_patch=all language=console language=japanese language=english language=german language=french language=spanish language=italian language=dutch language=s.chinese language=t.chinese language=korean vidtv=0 vidtv=1 country_patch=0 country_patch=1 fix_002=0 fix_002=1 block_ios_reload=0 block_ios_reload=1 alt_dol=0 alt_dol=1 alt_dol=sd alt_dol=disc ocarina=0 ocarina=1 hooktype=nohooks hooktype=vbi hooktype=wiipad hooktype=gcpad hooktype=gxdraw hooktype=gxflush hooktype=ossleep hooktype=axframe write_playlog=0 write_playlog=1 debug=0 debug=1 debug=8 wiird=0 wiird=1 wiird=2 home=reboot home=exit home=screenshot home=hbc home=priiloader home=wii_menu</SupportedParameters>
+    </Forwarder>
+    
+    <Forwarder>
+      <Title>USB Loader GX forwarder</Title>
+      <Filename>GXForwarder.dol</Filename>
+      <Author>Narolez</Author>
+      <Modder>WiiCrazy</Modder>
+      <DiscIdPlaceHolder>CRAPPY</DiscIdPlaceHolder>
+      <ConfigPlaceHolder>CFGUGX</ConfigPlaceHolder>
+      <SupportedParameters></SupportedParameters>
+    </Forwarder>
+    
+    <Forwarder>
+      <Title>ULoader Forwarder</Title>
+      <Filename>UloaderForwarder.dol</Filename>
+      <Author>Hermes</Author>
+      <Modder>-</Modder>
+      <DiscIdPlaceHolder>GAMEID</DiscIdPlaceHolder>
+      <ConfigPlaceHolder>CFGUSB</ConfigPlaceHolder>
+      <SupportedParameters></SupportedParameters>
+    </Forwarder>
+    
+    <Forwarder>
+      <Title>WiiFlow Forwarder</Title>
+      <Filename>WiiFlowForwarder.dol</Filename>
+      <Author>Narolez</Author>
+      <Modder>WiiCrazy</Modder>
+      <DiscIdPlaceHolder>CRAPPY</DiscIdPlaceHolder>
+      <ConfigPlaceHolder>CFGWFL</ConfigPlaceHolder>
+      <SupportedParameters>ios=249 ios=250 ios=251 ios=252 ios=222 ios=223 ios=224 ios=225 ios=226</SupportedParameters>
+    </Forwarder>
+
+  </Forwarders>
+
+  <!-- Forwarders that require a relevant loader in your system, for wiiware/vc games -->
+  <ChannelForwarders>
+  </ChannelForwarders>
+
+  <!-- Standalone loaders for wiiware/vc games -->
+  <ChannelStandaloneLoaders>
+    <Loader>
+      <Title>Triiforce mod by WiiCrazy</Title>
+      <Filename>CrapTriiforce.dol</Filename>
+      <Author>LemonMan, Nicksasa, Wiipower</Author>
+      <Modder>WiiCrazy</Modder>
+      <TitleIdPlaceHolder>TCRP</TitleIdPlaceHolder>
+      <ConfigPlaceHolder>CFGNND</ConfigPlaceHolder>
+      <VerboseLogSupport>1</VerboseLogSupport>
+      <SupportsSdSdhcCard>1</SupportsSdSdhcCard>
+    </Loader>
+    <Loader>
+      <Title>Triiforce mod v2.2 + Ocarina by wichoxp</Title>
+      <Filename>CrapTriiforcemodv22.dol</Filename>
+      <Author>LemonMan, Nicksasa, Wiipower</Author>
+      <Modder>wichoxp</Modder>
+      <TitleIdPlaceHolder>TCRP</TitleIdPlaceHolder>
+      <ConfigPlaceHolder>CFGNND</ConfigPlaceHolder>
+      <VerboseLogSupport>1</VerboseLogSupport>
+      <SupportsSdSdhcCard>1</SupportsSdSdhcCard>
+    </Loader>
+
+  </ChannelStandaloneLoaders>
+
+</LoaderConfig>

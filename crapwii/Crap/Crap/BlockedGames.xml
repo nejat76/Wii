@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<BlockedGames xmlns="http://tempuri.org/BlockedGames.xsd">
+  <Game>
+    <titleId>SBLE</titleId>
+    <discId>SBLE5G</discId>
+    <name>A boy and his blob</name>
+  </Game>
+  <Game>
+    <titleId>SBLP</titleId>
+    <discId>SBLP5G</discId>
+    <name>A boy and his blob</name>
+  </Game>
+  <Game>
+    <titleId>SBLJ</titleId>
+    <discId>SBLJ5G</discId>
+    <name>A boy and his blob</name>
+  </Game>
+</BlockedGames>

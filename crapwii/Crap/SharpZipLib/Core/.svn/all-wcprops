@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Core
+END
+StreamUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Core/StreamUtils.cs
+END
+FileSystemScanner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Core/FileSystemScanner.cs
+END
+PathFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Core/PathFilter.cs
+END
+IScanFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Core/IScanFilter.cs
+END
+INameTransform.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Core/INameTransform.cs
+END
+NameFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Core/NameFilter.cs
+END
+WindowsPathUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Core/WindowsPathUtils.cs
+END

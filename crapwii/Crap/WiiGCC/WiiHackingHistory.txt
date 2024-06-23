@@ -1,0 +1,15 @@
+It seems ninty failed to develop a secure system to prevent copying of their discs. We got somehow a half decent implementation of security instead. We got the keys so we can open the discs. Too easy to do. It relies on a shared key which is called common key and we all know it.
+
+Once the key revealed they didn't have any means to protect it. It relies on a shared key which is called common key and we all know it. Yes said that before and you know where the key is?
+
+It's in the cpu of every wii. You think it's a very good place to hide something like this and it's true. But they also hardcoded this key in every ios they developed. This opened the door for hacking. And soon after that famous trucha bug is revealed which exploited ninty's bad secure hashing implementation. That was the actual blow. People made a lot of stuff exploiting that little bug. Here we are. That was all in past wii hacking history.
+
+Now let us get back to present. Yet now ninty tries to prevent homebrew with mediocre methods like removing installed content from wii's installing stub copies. In the  games they are making changes that are too easy to patch. Most anticipated release of 2009 hacked by changing just single word in the main executable.
+
+What waits us in the future? Real hard measures? More sloppy measures like we have seen till now? What people think is ninty will increase the protection. That's hardly right.I think they will come up with something in-between. And that will mostly affect those users who won't be arsed to delve deep in technic talk, that's modchip users of course.
+
+Since modchip stuff nowadays a business with a fair amount of money involved in it, chances are slim that those modchip users would be left alone. 
+
+Beware, this text is the demo of the KeyStego application, words are carefully chosen so that secret information can be embedded. It may seem a natural text but there is serious work in it to hide the secret information. 
+
+Hope you found it interesting to read

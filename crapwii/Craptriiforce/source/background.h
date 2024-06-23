@@ -1,0 +1,2 @@
+void DrawBackground(GXRModeObj *vmode);
+

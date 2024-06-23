@@ -1,0 +1,1 @@
+﻿Do not delete this folder, program uses this folder to store extracted banners.

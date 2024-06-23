@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Checksums
+END
+IChecksum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Checksums/IChecksum.cs
+END
+StrangeCRC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Checksums/StrangeCRC.cs
+END
+Adler32.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Checksums/Adler32.cs
+END
+CRC32.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Checksums/CRC32.cs
+END

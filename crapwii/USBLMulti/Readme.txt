@@ -1,0 +1,13 @@
+14 April 2009 - WiiCrazy / I.R.on
+---------------------------------------------------------------------------
+It's too late... no long descriptions... it's the same with Waninkoko's
+0.4 usb loader except you can easily make it multi language...
+I provided support for Turkish in this...
+
+If you have a strange language like Turkish without a proper internalization
+support, then you need to change the console_font_8x16.c and recompile ogc 
+library. Poor me changed it bit by bit calculating in the source file since 
+I couldn't found a proper Turkish font file....
+
+Next time...
+

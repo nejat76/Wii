@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<LanguageResources>
+	<Module key="UserInterface">
+		<Item key="OK">OK</Item>
+	</Module>
+	<Module key="Packer">
+		<Item key="OK">OK</Item>
+	</Module>
+	<Module key="Wiiload">
+		<Item key="OK">OK</Item>
+	</Module>
+</LanguageResources>

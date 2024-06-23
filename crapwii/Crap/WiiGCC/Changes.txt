@@ -1,0 +1,55 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-= WiiGSC 1.06b -=-=-=-=-=-=-=-=-=-=-=-=-
+03/07/2011 WiiCrazy/I.R.on
+----------------------------------------------------------------
+* Wbfs file/path naming fixes. 
+
+* 64-bit Windows compatibility (cough Win 7 cough)
+
+* Self Installer updated (win. executables created by WiiGSC)
+
+* Splash image of wad installer changed & infamous cios 249 bug fixed.
+You can now use any revision of cios 249.
+
+* Cosmetic changes regarding test & installation feature.
+
+* KeyStego tool bundled into the release again.
+
+* Bundled language updates (German, Japanese, S.Chinese)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-= WiiGSC 1.05b -=-=-=-=-=-=-=-=-=-=-=-=-
+25/06/2011 WiiCrazy/I.R.on
+----------------------------------------------------------------
+* Now language files & loaders can be updated with the nifty 
+update interface. 
+
+* Added proxy setting. WiiGSC uses internet when it gets the list
+of blocked games and/or update manifest, update files. 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-= WiiGSC 1.01b -=-=-=-=-=-=-=-=-=-=-=-=-
+18/06/2011 WiiCrazy/I.R.on
+----------------------------------------------------------------
+* Game name extraction from banner has a language order preference 
+setting now.
+
+* Bug regarding unicode filename creation fixed.
+
+* You can hide the disclaimer so that everytime you open the app
+it doesn't popup.
+
+* Game blocking type can now be configured inside the app.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-= WiiGSC 1.0b -=-=-=-=-=-=-=-=-=-=-=-=-=
+13/06/2010 WiiCrazy/I.R.on
+----------------------------------------------------------------
+* Initial release
+
+* Most importantly Crap is renamed as WiiGSC
+
+* Crap converted from managed+unmanaged c++ to c#
+
+* OpenSSL dependency dropped
+
+* Loader configuration system completely changed and became xml based.
+
+* Instead of portable releases now there is an installer simplifying
+release preparation process.

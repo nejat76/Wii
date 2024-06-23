@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Manifest>
+  <Update id="DeutschLangUpdate-1" date="2011-06-26">
+    <Description>Updated language file for 1.05b by FIX94</Description>
+    <Content>
+      <Item version="1.05b" desc="Updated language file">Lang/Deutsch.xml</Item>
+    </Content>
+  </Update>
+  <Update id="JapLangUpdate-1" date="2011-06-25">
+    <Description>Updated language file for 1.05b by hoshigumayuugi </Description>      
+    <Content>
+      <Item version="1.05b" desc="Updated language file">Lang/Japanese.xml</Item>
+    </Content>
+  </Update>
+</Manifest>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/14/trunk/Crap/UpdateManager
+END
+BlockedGamesManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/Crap/UpdateManager/BlockedGamesManager.cs
+END
+BlockedGamesHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/Crap/UpdateManager/BlockedGamesHelper.cs
+END
+GameInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14/trunk/Crap/UpdateManager/GameInfo.cs
+END
+UpdateManager.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/Crap/UpdateManager/UpdateManager.csproj
+END

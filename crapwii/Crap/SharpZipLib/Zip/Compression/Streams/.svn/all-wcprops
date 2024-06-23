@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/Compression/Streams
+END
+InflaterInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/Compression/Streams/InflaterInputStream.cs
+END
+DeflaterOutputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/Compression/Streams/DeflaterOutputStream.cs
+END
+StreamManipulator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/Compression/Streams/StreamManipulator.cs
+END
+OutputWindow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Zip/Compression/Streams/OutputWindow.cs
+END

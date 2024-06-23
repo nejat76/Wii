@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/7/trunk/Crap/SharpZipLib
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/AssemblyInfo.cs
+END
+ICSharpCode.SharpZLib.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/ICSharpCode.SharpZLib.csproj
+END
+ICSharpCode.SharpZLib.prjx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/ICSharpCode.SharpZLib.prjx
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/app.config
+END
+Main.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/Main.cs
+END
+SharpZipBaseException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/SharpZipBaseException.cs
+END

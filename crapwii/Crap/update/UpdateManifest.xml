@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Manifest>
+  <Update id="DeutschLangUpdate-2" date="2011-07-11">
+    <Description>Updated Deutsch language file for 1.06b by FIX94</Description>
+    <Content>
+      <Item version="1.06b" desc="Updated language file">Lang/Deutsch.xml</Item>
+    </Content>
+  </Update>
+
+  <Update id="SpanishUpdate-1" date="2011-07-06">
+    <Description>Spanish language file for 1.06b by Ravmn</Description>
+    <Content>
+      <Item version="1.06b" desc="Updated language file">Lang/Spanish.xml</Item>
+    </Content>
+  </Update>
+
+  <Update id="ChineseLangUpdate-1" date="2011-06-29">
+    <Description>Simplified Chinese language file for 1.05b by Kavid</Description>
+    <Content>
+      <Item version="1.05b" desc="Updated language file">Lang/S.Chinese.xml</Item>
+    </Content>
+  </Update>
+
+  <Update id="DeutschLangUpdate-1" date="2011-06-26">
+    <Description>Updated language file for 1.05b by FIX94</Description>
+    <Content>
+      <Item version="1.05b" desc="Updated language file">Lang/Deutsch.xml</Item>
+    </Content>
+  </Update>
+  <Update id="JapLangUpdate-1" date="2011-06-25">
+    <Description>Updated language file for 1.05b by hoshigumayuugi </Description>      
+    <Content>
+      <Item version="1.05b" desc="Updated language file">Lang/Japanese.xml</Item>
+    </Content>
+  </Update>
+</Manifest>

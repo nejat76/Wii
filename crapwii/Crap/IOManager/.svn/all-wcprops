@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/7/trunk/Crap/IOManager
+END
+Handle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6/trunk/Crap/IOManager/Handle.cs
+END
+IOContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/Crap/IOManager/IOContext.cs
+END
+IOManager.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/Crap/IOManager/IOManager.csproj
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/trunk/Crap/IOManager/app.config
+END
+ProgressIndicator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/Crap/IOManager/ProgressIndicator.cs
+END
+IOManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/Crap/IOManager/IOManager.cs
+END
+MBRReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/Crap/IOManager/MBRReader.cs
+END
+IIOContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/trunk/Crap/IOManager/IIOContext.cs
+END
+PhysicalDrive.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/Crap/IOManager/PhysicalDrive.cs
+END

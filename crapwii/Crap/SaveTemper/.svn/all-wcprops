@@ -1,0 +1,93 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 14
+/svn/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/8/trunk/Crap/SaveTemper
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/Crap/SaveTemper/stdafx.h
+END
+bn.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/Crap/SaveTemper/bn.c
+END
+tools.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/Crap/SaveTemper/tools.c
+END
+ndir.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/Crap/SaveTemper/ndir.h
+END
+wadpacker.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/Crap/SaveTemper/wadpacker.c
+END
+savetools.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/Crap/SaveTemper/savetools.h
+END
+imet_signer.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/Crap/SaveTemper/imet_signer.c
+END
+tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/Crap/SaveTemper/tools.h
+END
+ec.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/Crap/SaveTemper/ec.c
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/Crap/SaveTemper/targetver.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/Crap/SaveTemper/stdafx.cpp
+END
+SaveTemper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/Crap/SaveTemper/SaveTemper.cpp
+END
+zeventig.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/Crap/SaveTemper/zeventig.c
+END
+SaveTemper.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/Crap/SaveTemper/SaveTemper.vcproj
+END

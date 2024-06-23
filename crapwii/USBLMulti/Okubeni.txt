@@ -1,0 +1,15 @@
+15 Nisan 2009 - WiiCrazy / I.R.on
+---------------------------------------------------------------------------
+Font deðiþtirildi, yine biraz kastýktan sonra aþaðýdaki font'taki büyük 
+harflerin yerini deðiþtirince nihayet font problemi halloldu.
+
+lat5-16.psfu
+http://v3.sk/~lkundrak/fonts/kbd/
+
+
+14 Nisan 2009 - WiiCrazy / I.R.on
+---------------------------------------------------------------------------
+Ýlk sürüm olduðu için þimdilik pek bir þey yazamýyorum.
+Vakit de epey geç oldu... Waninkoko'nun 0.4'ünden bir farký yok
+sadece türkçe desteði ve muhtemel diðer dillere destek verebilecek þekilde
+deðiþtirildi.

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/GZip
+END
+GzipInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/GZip/GzipInputStream.cs
+END
+GZIPConstants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/GZip/GZIPConstants.cs
+END
+GzipOutputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/GZip/GzipOutputStream.cs
+END
+GZipException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Crap/SharpZipLib/GZip/GZipException.cs
+END

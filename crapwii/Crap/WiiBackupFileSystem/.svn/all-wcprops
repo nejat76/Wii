@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/Crap/WiiBackupFileSystem
+END
+IDisc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/Crap/WiiBackupFileSystem/IDisc.cs
+END
+WiiDisc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/Crap/WiiBackupFileSystem/WiiDisc.cs
+END
+DVDRomReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/Crap/WiiBackupFileSystem/DVDRomReader.cs
+END
+WiiBackupFileSystem.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/Crap/WiiBackupFileSystem/WiiBackupFileSystem.csproj
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/Crap/WiiBackupFileSystem/app.config
+END
+AESRijndael.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/Crap/WiiBackupFileSystem/AESRijndael.cs
+END
+ScrubDisc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/Crap/WiiBackupFileSystem/ScrubDisc.cs
+END
+WBFSDevice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Crap/WiiBackupFileSystem/WBFSDevice.cs
+END
+Disc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/Crap/WiiBackupFileSystem/Disc.cs
+END
+EasyArraySegment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/Crap/WiiBackupFileSystem/EasyArraySegment.cs
+END
+DiscReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/Crap/WiiBackupFileSystem/DiscReader.cs
+END
