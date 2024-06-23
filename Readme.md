@@ -13,8 +13,10 @@ Beware that None of them is actively developed so I can't guarantee that you can
    - Bat files left intact and contains absolute paths in my old dev env. since I'm not actively developing.
    - Changing the installers would need proper devkitppc setup, I don't remember which lib versions they were compatible with. 
    - WiiGSC builds and runs fine with Visual Studio 2019 but I didn't test it. 
+   - Installation feature not converted to VS2019 properly so it's missing.
    - The change is to the muzak folder where I removed jt's tracks and put one of my own compositions. Music is used in the info screen. 
    - Sources for several other stuff is also here
       - KeyStego : a simple steganography application. 
 	  - CrazyInstaller : fantastic tool that can create installers for channels also capable of creating pc side executable installers which use wiiload feature in the Homebrew channel.
 
+ - CrazyIntroVideo is a preloader plugin like application to play videos when you start the wii. mplayerwii library is used in compiled form.
